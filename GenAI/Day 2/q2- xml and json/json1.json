@@ -1,0 +1,14 @@
+{
+    "Departments": [
+        {
+            "ID": "1",
+            "Name": "Computer Science",
+            "Head": "abc"
+        },
+        {
+            "ID": "2",
+            "Name": "Electrical Engineering",
+            "Head": "xyz"
+        }
+    ]
+}
