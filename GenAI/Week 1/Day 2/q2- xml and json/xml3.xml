@@ -1,0 +1,12 @@
+<Students>
+    <Student>
+        <ID>1</ID>
+        <Name>stu1</Name>
+        <DepartmentID>11</DepartmentID>
+    </Student>
+    <Student>
+        <ID>2</ID>
+        <Name>stu2</Name>
+        <DepartmentID>12</DepartmentID>
+    </Student>
+</Students>

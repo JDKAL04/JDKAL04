@@ -1,0 +1,10 @@
+<Departments>
+    <Department>
+        <ID>1</ID>
+        <name>Computer Science</Name>
+    </Department>
+    <Department>
+        <ID>2</ID>
+        <Name>Electrical Engineering</Name>
+    </Department>
+</Departments>
